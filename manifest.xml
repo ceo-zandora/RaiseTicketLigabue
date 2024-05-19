@@ -2,10 +2,10 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>218d0471-5664-49b4-afc4-0e06efc5687e</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Ligabue S. p. A.</ProviderName>
+  <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Raise Ticket"/>
-  <Description DefaultValue="Submit email to raise a ticket."/>
+  <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://www.contoso.com/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://www.contoso.com/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
